@@ -1,4 +1,0 @@
- ctrl + shift  + b to run a code
-
-#include<bits/stdc++.h>
-using namespace std;
